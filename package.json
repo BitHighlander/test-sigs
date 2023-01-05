@@ -1,0 +1,7 @@
+{
+  "name": "test-sigs",
+  "version": "1.0.0",
+  "dependencies": {
+    "eth_mnemonic_signer": "^1.0.5"
+  }
+}
